@@ -3,4 +3,4 @@
 
 % cd Aproval.txt-1
 
-python Jokar-abir.py
+% python Jokar-abir.py
